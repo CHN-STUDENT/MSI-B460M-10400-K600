@@ -1,5 +1,5 @@
 # MSI-B460M-10400-K600
-hackintosh: OpenCore0.7.4 + MSI B460M Mortar + i7 10400 + K600
+hackintosh: OpenCore0.7.4 + MSI B460M Mortar + i5 10400 + K600
 
 ![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info1.png)
 
