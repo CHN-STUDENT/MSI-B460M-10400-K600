@@ -25,12 +25,12 @@ USB 已做定制。
 休眠+关机正常+硬件加速正常。
 仅做备份参考使用。
 
-![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info2.png)
-![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info3.png)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info2.jpg)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info3.jpg)
 ![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info4.png)
-![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info5.png)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info5.jpg)
 ![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info6.png)
-![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info7.png)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info7.jpg)
 
 ## 鸣谢：
 基于前人版本做修改，目前均正常。
