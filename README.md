@@ -1,6 +1,7 @@
 # MSI-B460M-10400-K600
 hackintosh: OpenCore0.7.4 + MSI B460M Mortar + i7 10400 + K600
 
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info1.png)
 
 ## 硬件配置
 
@@ -23,6 +24,13 @@ hackintosh: OpenCore0.7.4 + MSI B460M Mortar + i7 10400 + K600
 USB 已做定制。
 休眠+关机正常+硬件加速正常。
 仅做备份参考使用。
+
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info2.png)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info3.png)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info4.png)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info5.png)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info6.png)
+![image](https://raw.githubusercontent.com/CHN-STUDENT/MSI-B460M-10400-K600/main/printscreen/info7.png)
 
 ## 鸣谢：
 基于前人版本做修改，目前均正常。
