@@ -34,4 +34,5 @@ USB 已做定制。
 
 ## 鸣谢：
 基于前人版本做修改，目前均正常。
-> https://github.com/maemual/MSI-B460M-10700-5500XT/issues
+> https://github.com/tianxaidaxue/Hackintosh-MSI-b460M-MORTAR-WIFI-i5-10400-IGPU-UHD630-RX560
+> https://github.com/maemual/MSI-B460M-10700-5500XT
